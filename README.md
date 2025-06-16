@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sriman H</h1>
+<h1 align="center">Hi 👋, I'm Jandy Roach</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 - 🌐 Portfolio: [My Website](https://tranquil-kitsune-3ae00d.netlify.app/)
 - 💬 Ask me about: **Full Stack Development**
-- 📫 Reach me at: **srimandgl2004@gmail.com**
+- 📫 Reach me at: **jandyroachy@gmail.com**
 
 ---
 
