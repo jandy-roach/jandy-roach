@@ -5,20 +5,22 @@
 
 <table>
   <tr>
-    <td>
-      <h3>Hi there 👋 I'm <strong>Jandy Roach</strong></h3>
-      <p>
-        🚀 Full Stack Developer from <strong>Coimbatore</strong><br/>
-        🎯 Passionate about building clean and scalable web apps<br/>
-        🌱 Currently exploring C++ debugging<br/>
-        💡 MERN stack enthusiast<br/>
-      </p>
+    <td width="60%">
+      <h3>👋 Hi there, I'm <strong>Jandy Roach</strong></h3>
+      <ul>
+        <li>🚀 <strong>Full Stack Developer from Coimbatore</strong></li>
+        <li>🧠 Passionate about transforming ideas into full-fledged digital products using the <strong>MERN stack</strong>.</li>
+        <li>🛠️ Currently learning advanced <strong>C++ debugging</strong></li>
+        <li>🎯 My goal is to turn innovative web ideas into real-world products that provide value.</li>
+      </ul>
     </td>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFsYmM1ZTRud2w0eGtnMng0MXgxeGxwb3g3bG05NGJ6dmt3cnVpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+    <td align="center" width="40%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFsYmM1ZTRud2w0eGtnMng0MXgxeGxwb3g3bG05NGJ6dmt3cnVpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
     </td>
   </tr>
 </table>
+
+
 
 ---
 
